@@ -4,6 +4,7 @@ import java.util.List;
 
 /**
  * Created by DJ on 2016/9/19.
+ * 堆排序实现
  */
 public class HeapSort<T extends Comparable> extends Sort<T> {
     public HeapSort(List<T> array) {
