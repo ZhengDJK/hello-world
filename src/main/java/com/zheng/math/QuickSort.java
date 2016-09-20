@@ -4,6 +4,7 @@ import java.util.List;
 
 /**
  * Created by DJ on 2016/9/19.
+ * 快速排序实现
  */
 public class QuickSort<T extends Comparable> extends Sort<T> {
     public QuickSort(List<T> array) {

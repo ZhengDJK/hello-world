@@ -4,6 +4,7 @@ import java.util.List;
 
 /**
  * Created by DJ on 2016/9/19.
+ * 插入排序实现
  */
 public class InsertSort<T extends Comparable> extends Sort<T> {
     public InsertSort(List<T> array) {
